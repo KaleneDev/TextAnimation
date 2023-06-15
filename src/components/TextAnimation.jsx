@@ -35,10 +35,84 @@ const TextAnimation = () => {
             <div className="textAnimation__motParMot">
                 <h1
                     className="title"
+                >
+                    Ceci est <br /> <strong>un titre</strong>
+                </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
+                <h1
+                    className="title"
                     // dangerouslySetInnerHTML={{ __html: text }}
                 >
                     Ceci est <br /> <strong>un titre</strong>
                 </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
+                <h1
+                    className="title"
+                    // dangerouslySetInnerHTML={{ __html: text }}
+                >
+                    Ceci est <br /> <strong>un titre</strong>
+                </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
+                <h1
+                    className="title"
+                    // dangerouslySetInnerHTML={{ __html: text }}
+                >
+                    Ceci est <br /> <strong>un titre</strong>
+                </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
+                <h1
+                    className="title"
+                    // dangerouslySetInnerHTML={{ __html: text }}
+                >
+                    Ceci est <br /> <strong>un titre</strong>
+                </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
+                <h1
+                    className="title"
+                    // dangerouslySetInnerHTML={{ __html: text }}
+                >
+                    Ceci est <br /> <strong>un titre</strong>
+                </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
+                <h1
+                    className="title"
+                    // dangerouslySetInnerHTML={{ __html: text }}
+                >
+                    Ceci est <br /> <strong>un titre</strong>
+                </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
+                <h1
+                    className="title"
+                    // dangerouslySetInnerHTML={{ __html: text }}
+                >
+                    Ceci est <br /> <strong>un titre</strong>
+                </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
+                <h1
+                    className="title"
+                    // dangerouslySetInnerHTML={{ __html: text }}
+                >
+                    Ceci est <br /> <strong>un titre</strong>
+                </h1>
+            </div>
+            <hr />
+            <div className="textAnimation__motParMot">
                 <h1
                     className="title"
                     // dangerouslySetInnerHTML={{ __html: text }}

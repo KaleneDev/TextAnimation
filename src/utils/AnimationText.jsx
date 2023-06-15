@@ -1,5 +1,7 @@
+
 const textAnimationMotParMot01 = () => {
     const words = document.querySelectorAll(".title");
+
     for (let i = 0; i < words.length; i++) {
         const word = words[i];
 
@@ -66,7 +68,9 @@ const textAnimationMotParMot01 = () => {
             span.style.animationDelay = k * 0.3 + "s";
         });
     }
+
 };
+
 const textAnimationMotParMot02 = () => {
     const words = document.querySelectorAll("#animation-container");
 
